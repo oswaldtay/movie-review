@@ -17,6 +17,15 @@ GitHub Public Repository: https://github.com/oswaldtay/movie-review
 
 !["description page"](<description page.jpeg>)
 
-[app description - purpose and features]
+MovieOS is an app for scrolling different films by genre.
 
-[list of how app address each requirement]
+MovieOS supports: 
+- multiple scrollable views (the filters and uicollection of different films),
+- multiple view controllers (main vc to scroll films and sort by genre, and a vc to expand the film descriptions)
+- networking integration (get request for movies, as well as a Network Manager)
+
+Future Goals:
+Adding reviews, personal movie logs by user
+
+
+
